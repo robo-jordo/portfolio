@@ -2,7 +2,7 @@
 layout: contact
 path: /contact
 url: index.html
-image: https://www.facebook.com/photo.php?fbid=10210513956822966&set=t.518182839&type=3&theater
+image: /portfolio/public/images/profile.jpg
 ---
 
 ## Contact information:

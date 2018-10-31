@@ -2,14 +2,17 @@
 layout: contact
 path: /contact
 url: index.html
-image: http://unsplash.it/400?random
+image: https://www.facebook.com/photo.php?fbid=10210513956822966&set=t.518182839&type=3&theater
 ---
 
-## Quick Spiel
-Lorem ipsum dolor sit amet, tota primis copiosae id quo. Melius eligendi elaboraret pri et, eam menandri platonem te. Tollit iudicabit gloriatur per ad. Ad diceret recteque eum, eu commodo petentium qui. No aliquid delectus eam, dicta eripuit convenire te nec. Vix no veritus dignissim. Erat ferri veniam ut eos, pro ex eius error intellegat, his te graecis oporteat honestatis.
+## Contact information:
+Here is my contact information.
+I generally respond to emails on either email address within one working day.
+If i miss your phoen call please send me a text.
 
-* Phone: (123) 456-7890
-* Email: youremail@youremail.com
+* Phone: (773) 865-4408
+* University Email: jordanhaskel2019@u.northwestern.edu
+* Personal Email: jordhask@gmail.com
 * Address: 2145 Sheridan Rd., Evanston, IL, 60201
 
-Ad case nemore equidem mea. Duo te iuvaret appetere appellantur, sint scaevola usu cu. Eum ne aeque ridens prompta. At legendos vulputate eos, pro illum iuvaret cu, ludus vituperata usu no.
+Please feel free to contact me by phone or email.

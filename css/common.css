@@ -1,3 +1,8 @@
 html {
 	font: italic bold 12px/30px Georgia, serif;
 }
+
+body {
+   background-image: url("https://github.com/robo-jordo/portfolio/blob/gh-pages/public/images/1.jpg");
+   background-color: #cccccc;
+}

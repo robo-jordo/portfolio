@@ -3,6 +3,6 @@ html {
 }
 
 body {
-   background-image: url("https://github.com/robo-jordo/portfolio/blob/gh-pages/public/images/1.jpg");
+   background-image: url("{{site.baseurl}}/public/images/1.jpg");
    background-color: #cccccc;
 }

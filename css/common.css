@@ -3,5 +3,8 @@ html {
 }
 
 body {
-   background-image: url(https://github.com/robo-jordo/portfolio/blob/gh-pages/public/images/1.jpg?raw=true);
+    background-image: url(https://github.com/jordanExplore/Explore_resources/blob/master/triangles.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-attachment: fixed;
 }

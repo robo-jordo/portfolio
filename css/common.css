@@ -1,3 +1,10 @@
 html {
 	font: italic bold 12px/30px Georgia, serif;
 }
+
+body {
+    background-image: url(https://github.com/robo-jordo/image/blob/master/Vecteezy-17-11150-08.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-attachment: fixed;
+}

@@ -2,11 +2,11 @@
 layout: main
 ---
 <main class="project">
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/common.css">
 	<section id="contact-content">
-		<img id="project-image" src="{{ page.image }}" width="=100%" height="100%">
+		<img id="project-image" class="icon" src="{{ page.image }}" width="=100%" height="100%">
 		<h1 id="project-title">{{ page.title }}</h1>
 		<h2 id="project-date">{{ page.date |  date: '%B %-d, %Y'}}</h2>
-
 		{{ content }}
 
 	</section>

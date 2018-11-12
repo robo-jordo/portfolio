@@ -99,7 +99,7 @@ html {
             -ms-transform: translateY(-50%);
             transform: translateY(-50%); }
             html body main#portfolio div#portfolio-gallery div.container div.image-container div.image-vertical-align-box img.inner {
-              height: 100%;
+              width: 100%;
               margin: auto; }
         html body main#portfolio div#portfolio-gallery div.container div.inner-text {
           padding-top: 15px;

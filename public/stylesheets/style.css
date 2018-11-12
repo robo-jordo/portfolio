@@ -84,7 +84,7 @@ html {
           left: 0;
           z-index: 1; }
         html body main#portfolio div#portfolio-gallery div.container div.image-container {
-          background-color: "white"
+          background-color: coral;
           position: relative;
           height: 85%;
           overflow: hidden;

@@ -8,7 +8,7 @@ label, table, caption {
 
 html {
   width: 100%;
-  font-family: Lucida Console, arial;}
+  font-family: Consolas,monaco,monospace;}
   html body {
     /* Header */
     /* General main template */

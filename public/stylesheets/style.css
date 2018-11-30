@@ -8,7 +8,7 @@ label, table, caption {
 
 html {
   width: 100%;
-  font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;}
+  font-family: Lucida Console, arial;}
   html body {
     /* Header */
     /* General main template */
@@ -45,10 +45,6 @@ html {
               color: inherit; }
     html body main {
       margin: 0 auto;
-      background-image: url(https://github.com/robo-jordo/image/blob/master/3.jpg?raw=true);
-      background-repeat: no-repeat;
-      background-size:100% 100%;
-      background-attachment: fixed;
       width: 100%; }
       html body main > h1.page-header {
         margin: 20px auto 10px;

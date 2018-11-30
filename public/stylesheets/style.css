@@ -8,7 +8,7 @@ label, table, caption {
 
 html {
   width: 100%;
-  font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono; }
+  font-family: Arial, Helvetica, sans-serif; }
   html body {
     /* Header */
     /* General main template */
@@ -84,7 +84,6 @@ html {
           left: 0;
           z-index: 1; }
         html body main#portfolio div#portfolio-gallery div.container div.image-container {
-          background-color: white;
           position: relative;
           height: 85%;
           overflow: hidden;

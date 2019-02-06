@@ -1,14 +1,14 @@
 ---
-title: Rupert
-subtitle: Machine learning quadrupedal gait
+title: Robert 
+subtitle: Line following legged robot
 layout: default
 modal-id: 7
-date: 2012-01-18
-img: rupert2.png
-thumbnail: rupert2-thumbnail.png
+date: 2016-12-30
+img: Robbit.jpg
+thumbnail: Robbit-thumbnail.jpg
 alt: image-alt
-project-date: January 2018
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: December 2016
+description: <h3>Overview</h3>   <h3>Gazebo and ROS</h3> <h3>Algorithms</h3> </h3> <br> <br>  <video src="/home/jordan/portfolio/msr-student-template/img/rupert/1.mp4" controls preload></video>
+
 
 ---

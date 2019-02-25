@@ -8,7 +8,6 @@ img: Robbit.jpg
 thumbnail: Robbit-thumbnail.jpg
 alt: image-alt
 project-date: December 2016
-description: <h3>Overview</h3>   <h3>Gazebo and ROS</h3> <h3>Algorithms</h3> </h3> <br> <br>  <embed src="https://github.com/robo-jordo/portfolio/blob/gh-pages/img/portfolio/rupert/1.mp4?raw=true"/>
-
+description: <h3>Overview</h3>   <h3>Gazebo and ROS</h3> <h3>Algorithms</h3> </h3> <br> <br>  
 
 ---

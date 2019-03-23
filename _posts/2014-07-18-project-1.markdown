@@ -17,6 +17,11 @@ description: <h3>Overview</h3> This project aimed to develop a gait for a quadru
 As with other evolutionary algorithms this algorithm makes use of mutations, mating between the survivng members of the population and culling of the weak portion of the population at each generation.
 
 
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/26KfOthAEk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 <br><br>To see more you can visit <a href="https://github.com/robo-jordo/quadruped_ml_gait">Quadrupedal ML gait</a>
 
 

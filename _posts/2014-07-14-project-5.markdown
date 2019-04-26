@@ -8,6 +8,6 @@ img: smartwatch.png
 thumbnail: smartwatch-thumbnail.png
 alt: image-alt
 project-date: April 2014
-description: Coming Soon
+description: Coming Soon!
 
 ---

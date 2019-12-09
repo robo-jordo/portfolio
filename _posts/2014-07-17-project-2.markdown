@@ -1,6 +1,6 @@
 ---
 title: Baxter reads numbers
-subtitle: CV, number recognition & pick and place
+subtitle: CV, digit recognition, pick & place
 layout: default
 modal-id: 2
 date: 2018-12-17

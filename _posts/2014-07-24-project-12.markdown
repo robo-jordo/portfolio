@@ -1,0 +1,14 @@
+---
+title: Jackal build on ROS melodic
+subtitle: Jackal software build from scratch
+layout: default
+modal-id: 12
+date: 2019-01-25
+img: jackal-build.jpg
+thumbnail: jackal-build-thumbnail.jpg
+alt: image-alt
+project-date: January 2018
+category: Web Development
+description: <h3>Overview</h3> This project aimed to bring the ClearPath Jackal up to a running state along with a Velodyne lidar on ROS melodic (which at the time of writing is not supported by ClearPath). ClearPath has a release image with all the necessary set up for ROS kinetic but not for ROS melodic yet, as such some packages had to be built from source and certain issues (such as networking and udev rules) had to be trouble shot. <br> To see a comprehensive walk-through visit <a href="https://github.com/robo-jordo/jackal_melodic_bringup">jackal_melodic_bringup</a><br> <br> <h3>Brief process</h3> <br> <h5>Wireless Network set up</h5><h5>ROS install and packages</h5> <h5>ROS over the network</h5> <h5>Udev and boot into working mode</h5> <br><br> <h3>General set up</h3> <!-- <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/98T7DQ4kf7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br><br>To see more you can visit <a href="https://github.com/robo-jordo/quadruped_ml_gait">Quadrupedal ML gait</a> -->
+
+---
